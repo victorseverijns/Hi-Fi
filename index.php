@@ -25,13 +25,12 @@
 			</div>
 		</div>
 		<div id="overzicht" class="row">
-			<div id="Onderkant" class="col-md-12">
-		 	<div id="arts1" ><img src="images/user.png"/> &nbsp Adams </div>
-        		<div id="arts2" ><img src="images/user.png"/> &nbsp Gillisen </div>
-       			<div id="arts3" ><img src="images/user.png"/> &nbsp Haringa </div>
-        		<div id="arts4" ><img src="images/user.png"/> &nbsp Janssen </div>
-        		<div id="arts5" ><img src="images/user.png"/> &nbsp Kappen </div>
-        		<div id="arts6" ><img src="images/user.png"/> &nbsp Zwet </div>
+		 	<div class="col-md-2" id="arts1" ><img src="images/user.png"/> &nbsp Adams </div>
+        		<div class="col-md-2" id="arts2" ><img src="images/user.png"/> &nbsp Gillisen </div>
+       			<div class="col-md-2" id="arts3" ><img src="images/user.png"/> &nbsp Haringa </div>
+        		<div class="col-md-2" id="arts4" ><img src="images/user.png"/> &nbsp Janssen </div>
+        		<div class="col-md-2" id="arts5" ><img src="images/user.png"/> &nbsp Kappen </div>
+        		<div class="col-md-2" id="arts6" ><img src="images/user.png"/> &nbsp Zwet </div>
 		</div>
 	</body>
 </html>
