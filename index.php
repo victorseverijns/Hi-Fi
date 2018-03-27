@@ -11,8 +11,10 @@
 	<body>
 		<div id="header">
 			<div id="personal">
-				<img src="images/user.png" /> <span>T. Kappen</span>
+				<img src="images/user.png" /> 
+				<span>T. Kappen</span>
 			</div>
+							  
 			<div id="hulp">
 				<span> ! HULP <br></br>  <br></br>  <br></br>  <br></br>  <br></br> </span>
 
@@ -22,14 +24,14 @@
 				<div class="eigenok"></div>
 			</div>
 		</div>
-		<div id="overzicht">
+		<div id="overzicht" class="row">
 			 
-		 	<div id="arts1"><img src="images/user.png"/> &nbsp Adams </div>
-        		<div id="arts2"><img src="images/user.png"/> &nbsp Gillisen </div>
-       			<div id="arts3"><img src="images/user.png"/> &nbsp Haringa </div>
-        		<div id="arts4"><img src="images/user.png"/> &nbsp Janssen </div>
-        		<div id="arts5"><img src="images/user.png"/> &nbsp Kappen </div>
-        		<div id="arts6"><img src="images/user.png"/> &nbsp Zwet </div>
+		 	<div id="arts1" class="col-md-12"><img src="images/user.png"/> &nbsp Adams </div>
+        		<div id="arts2" class="col-md-12"><img src="images/user.png"/> &nbsp Gillisen </div>
+       			<div id="arts3" class="col-md-12"><img src="images/user.png"/> &nbsp Haringa </div>
+        		<div id="arts4" class="col-md-12"><img src="images/user.png"/> &nbsp Janssen </div>
+        		<div id="arts5" class="col-md-12"><img src="images/user.png"/> &nbsp Kappen </div>
+        		<div id="arts6" class="col-md-12"><img src="images/user.png"/> &nbsp Zwet </div>
 		</div>
 	</body>
 </html>
