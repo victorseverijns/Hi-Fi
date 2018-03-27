@@ -57,19 +57,18 @@ html, body {
 
 }
 
+#overzicht {
+}
+
 #onderkant {
 	border-right: 1px solid black; 
 	
 }
 
-#overzicht {
-}
-
 #arts1 {
   
-  position: absolute;
   border: 1px solid black; 
-  padding
+
   
 }
 
@@ -80,7 +79,7 @@ html, body {
 }
 
 #arts2 {
-  position: absolute;
+
   border: 1px solid black; 
   
 } 
@@ -92,7 +91,7 @@ html, body {
     
 }
  #arts3 {
-  position: absolute;
+  
   border: 1px solid black; 
   
     
@@ -105,7 +104,7 @@ html, body {
 }
   
   #arts4 {
-  position: absolute; 
+  
   border: 1px solid black; 
   
     
@@ -118,7 +117,7 @@ html, body {
 }
   
   #arts5 {
-  position: absolute;
+
   border: 1px solid black;  
     
   }
@@ -130,7 +129,7 @@ html, body {
 }
   
   #arts6 { 
-  position: absolute; 
+
   border: 1px solid black; 
   
     
