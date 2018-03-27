@@ -11,7 +11,7 @@
 	<body>
 		<div id="header">
 			<div id="personal">
-				<img src="images/user.png" /> <span>T. Kapp</span>
+				<img src="images/user.png" /> <span>T. Kap</span>
 			</div>
 			<div id="hulp">
 
