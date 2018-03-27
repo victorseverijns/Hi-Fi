@@ -53,10 +53,9 @@ border: 1px solid black;
 left: 100px;
 width: 400px;
 height: 200px;
-top: 50px;
+border-top: 50px;
 float: left;
-
-
+border-left-width: 50px; 
 
 }
 
@@ -65,8 +64,8 @@ border: 1px solid black;
 left: 200px;
 width: 400px;
 height: 200px;
-top: 50px;
-float: left; 
+border-top: 50px;
+top: 50px; 
 
 }
          
