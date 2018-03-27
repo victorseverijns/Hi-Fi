@@ -63,10 +63,6 @@ html, body {
 #arts1 {
   
   position: absolute;
-  width: 100px;
-  height:300px;
-  top:360px; 
-  left: 10px; 
   border: 1px solid black; 
   padding
   
@@ -80,10 +76,6 @@ html, body {
 
 #arts2 {
   position: absolute;
-  width: 100px;
-  height:300px;
-  left: 120px; 
-  top:360px; 
   border: 1px solid black; 
   
 } 
@@ -96,10 +88,6 @@ html, body {
 }
  #arts3 {
   position: absolute;
-  width: 100px;
-  height:300px;
-  left: 230px; 
-  top:360px; 
   border: 1px solid black; 
   
     
@@ -112,11 +100,7 @@ html, body {
 }
   
   #arts4 {
-  position: absolute;
-  width: 100px;
-  height:300px;
-  left: 340px; 
-  top:360px; 
+  position: absolute; 
   border: 1px solid black; 
   
     
@@ -130,10 +114,6 @@ html, body {
   
   #arts5 {
   position: absolute;
-  width: 100px;
-  height:300px;
-  left: 450px; 
-  top:360px; 
   border: 1px solid black;  
     
   }
@@ -145,11 +125,7 @@ html, body {
 }
   
   #arts6 { 
-  position: absolute;
-  width: 100px;
-  height:300px;
-  left: 560px; 
-  top:360px; 
+  position: absolute; 
   border: 1px solid black; 
   
     
