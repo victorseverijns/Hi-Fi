@@ -54,6 +54,7 @@ left: 100px;
 width: 400px;
 height: 200px;
 float: left;
+top: 50px; 
  
 
 }
@@ -64,6 +65,7 @@ left: 200px;
 width: 400px;
 height: 200px;
 top: 50px; 
+float: left; 
 
 }
          
