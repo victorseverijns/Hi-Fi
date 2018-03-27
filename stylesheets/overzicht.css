@@ -72,6 +72,12 @@ html, body {
   
 }
 
+#arts1 img {
+    height: 30px; 
+    vertical-align: middle; 
+    
+}
+
 #arts2 {
   position: absolute;
   width: 100px;
@@ -81,6 +87,13 @@ html, body {
   border: 1px solid black; 
   
 } 
+
+
+#arts2 img {
+    height: 30px; 
+    vertical-align: middle; 
+    
+}
  #arts3 {
   position: absolute;
   width: 100px;
@@ -91,6 +104,12 @@ html, body {
   
     
   }
+
+#arts3 img {
+    height: 30px; 
+    vertical-align: middle; 
+    
+}
   
   #arts4 {
   position: absolute;
@@ -102,6 +121,12 @@ html, body {
   
     
   }
+
+#arts4 img {
+    height: 30px; 
+    vertical-align: middle; 
+    
+}
   
   #arts5 {
   position: absolute;
@@ -112,6 +137,12 @@ html, body {
   border: 1px solid black;  
     
   }
+
+#arts5 img {
+    height: 30px; 
+    vertical-align: middle; 
+    
+}
   
   #arts6 { 
   position: absolute;
@@ -123,3 +154,9 @@ html, body {
   
     
   }
+
+#arts6 img {
+    height: 30px; 
+    vertical-align: middle; 
+    
+}
