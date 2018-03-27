@@ -23,12 +23,13 @@
 			</div>
 		</div>
 		<div id="overzicht">
-			 <div id="arts1">Adams</div>
-       			 <div id="arts2">Gillissen</div>
-       			 <div id="arts3">Haringa</div>
-      			 <div id="arts4">Janssen</div>
-        		 <div id="arts5">Kappen</div>
-       			 <div id="arts6">Schouten</div>
+			 
+			<div id="arts1"><CENTER>Adams</CENTER></div>
+        		<div id="arts2"><CENTER>Gillissen</CENTER></div>
+      			<div id="arts3"><CENTER>Haringa</CENTER></div>
+        		<div id="arts4"><CENTER>Janssen</CENTER></div>
+        		<div id="arts5"><CENTER>Kappen</CENTER></div>
+        		<div id="arts6"><CENTER>Schouten</CENTER></div>
 
 		</div>
 	</body>
