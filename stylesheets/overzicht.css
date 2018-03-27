@@ -51,13 +51,17 @@ html, body {
 #OK1 {
 border: 1px solid black;
 left: 100;
+width: 400;
+height: 150;
+
 
 }
 
 #OK2 {
 border: 1px solid black; 
 left: 200;
-
+width: 400;
+height: 150;
 
 }
          
