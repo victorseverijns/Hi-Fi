@@ -17,13 +17,15 @@
 							  
 			<div id="hulp">
 				<span> <CENTER>! HULP <br></br>  <br></br>  <br></br>  <br></br>  <br></br></CENTER> </span>
+			</div>
 
-			</div>
 			<div id="eigenoks">
-				<div class="eigenok"></div>
-				<div class="eigenok"></div>
-			</div>
+				<div class="eigenok"> <span>OK #1</span></div>
+				<div class="eigenok"> <span>OK #2</span></div>
+			</div> 
+
 		</div>
+
 		<div id="overzicht" class="row">
 		 	<div class="col-md-2" id="arts1" ><img src="images/user.png"/> &nbsp Adams </div>
         		<div class="col-md-2" id="arts2" ><img src="images/user.png"/> &nbsp Gillisen </div>
@@ -32,5 +34,6 @@
         		<div class="col-md-2" id="arts5" ><img src="images/user.png"/> &nbsp Kappen </div>
         		<div class="col-md-2" id="arts6" ><img src="images/user.png"/> &nbsp Zwet </div>
 		</div>
+
 	</body>
 </html>
