@@ -33,9 +33,9 @@ html, body {
 	
 	position: absolute;
  	 width:100px;
- 	 height:330px;
-	top: 0;
-	left: 0;
+ 	 height: 290px;
+	top: 20;
+	left: 20;
 	border: 1px solid black; 
 	padding: 10px; 
 
@@ -44,10 +44,16 @@ html, body {
 }
 
 #eigenoks {
+	
 
 }
 
 .eigenok {
+	position: absolute;
+	width: 200px;
+	height: 150px;
+	border: 1px solid black;
+	top:130px; 
 
 }
 
