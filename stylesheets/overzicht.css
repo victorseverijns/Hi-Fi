@@ -58,5 +58,68 @@ html, body {
 }
 
 #overzicht {
-
 }
+
+#arts1 {
+  
+  position: absolute;
+  width: 100px;
+  height:300px;
+  top:360px; 
+  left: 10px; 
+  border: 1px solid black; 
+  padding
+  
+}
+
+#arts2 {
+  position: absolute;
+  width: 100px;
+  height:300px;
+  left: 120px; 
+  top:360px; 
+  border: 1px solid black; 
+  
+} 
+ #arts3 {
+  position: absolute;
+  width: 100px;
+  height:300px;
+  left: 230px; 
+  top:360px; 
+  border: 1px solid black; 
+  
+    
+  }
+  
+  #arts4 {
+  position: absolute;
+  width: 100px;
+  height:300px;
+  left: 340px; 
+  top:360px; 
+  border: 1px solid black; 
+  
+    
+  }
+  
+  #arts5 {
+  position: absolute;
+  width: 100px;
+  height:300px;
+  left: 450px; 
+  top:360px; 
+  border: 1px solid black;  
+    
+  }
+  
+  #arts6 { 
+  position: absolute;
+  width: 100px;
+  height:300px;
+  left: 560px; 
+  top:360px; 
+  border: 1px solid black; 
+  
+    
+  }
