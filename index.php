@@ -16,7 +16,7 @@
 			</div>
 							  
 			<div id="hulp">
-				<span> ! HULP <br></br>  <br></br>  <br></br>  <br></br>  <br></br> </span>
+				<span> <CENTER>! HULP <br></br>  <br></br>  <br></br>  <br></br>  <br></br></CENTER> </span>
 
 			</div>
 			<div id="eigenoks">
