@@ -30,6 +30,16 @@ html, body {
 }
 
 #hulp {
+	
+	position: absolute;
+ 	 width:100px;
+ 	 height:330px;
+	top: 0;
+	left: 0;
+	border: 1px solid black; 
+	padding: 10px; 
+
+
 
 }
 
