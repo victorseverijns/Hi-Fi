@@ -2,10 +2,10 @@
 <html>
 	<head>
 		<title>Locatieoverzicht #A - UMC Utrecht</title>
-		<link rel="stylesheet" type="text/css" href="fa-regular.css" />
-		<link rel="stylesheet" type="text/css" href="fa-solid.css" />
-		<link rel="stylesheet" type="text/css" href="fontawesome.css" />
-		<link rel="stylesheet" type="text/css" href="bootstrap.min.css" />
+		<link rel="stylesheet" type="text/css" href="stylesheets/fa-regular.css" />
+		<link rel="stylesheet" type="text/css" href="stylesheets/fa-solid.css" />
+		<link rel="stylesheet" type="text/css" href="stylesheets/fontawesome.css" />
+		<link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.min.css" />
 		<link rel="stylesheet" type="text/css" href="stylesheets/overzicht.css" />
 	</head>
 	<body>
