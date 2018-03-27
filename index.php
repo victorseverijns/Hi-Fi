@@ -20,8 +20,8 @@
 			</div>
 
 			<div id="eigenoks">
-				<div class="eigenok"> <span>OK #1</span></div>
-				<div class="eigenok"> <span>OK #2</span></div>
+				<div id="OK #1" class="eigenok"></div>
+				<div id="OK #2" class="eigenok"></div>
 			</div> 
 
 		</div>
