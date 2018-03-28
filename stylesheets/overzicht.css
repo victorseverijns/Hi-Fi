@@ -1,7 +1,6 @@
 html, body {
     margin: 0;
     overflow: hidden;
-    margin-bottom: 0; 
 }
 
 #header {
@@ -82,11 +81,7 @@ margin-top:100px;
 
 #arts1 {
   
-  border: 1px solid black; 
-  margin-bottom: 0px; 
-
-
-  
+  border: 1px solid black;   
 }
 
 #arts1 img {
@@ -121,8 +116,7 @@ margin-top:100px;
 #arts2 {
 
   border: 1px solid black; 
-  margin-bottom: 0px; 
-  
+  margin-bottom: 0;   
 } 
     
 #arts2 img {
