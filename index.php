@@ -20,8 +20,8 @@
 			</div>
 
 			<div id="eigenoks">
-				<div id="OK1" class="eigenok"><span><FONT size="5"> OK #1 </FONT> </span></div>
-				<div id="OK2" class="eigenok"><span>OK #2</span></div>
+				<div id="OK1" class="eigenok"><span><FONT size="6"> &nbsp OK #1 </FONT>  <br>Appendectomie</span></div>
+				<div id="OK2" class="eigenok"><span><FONT size="6"> &nbsp OK #6 </FONT>  <br>Operatie arm </span></div>
 			</div> 
 
 		</div>
