@@ -83,6 +83,7 @@ margin-top:100px;
   
   border: 1px solid black; 
 
+
   
 }
 
@@ -97,6 +98,15 @@ margin-top:100px;
   border: 1px solid black; 
   
 } 
+#ok3arts1 {
+
+    border: 1px solid black;
+    
+}
+
+#ok5arts1 {
+    border: 1px solid black;
+}
 
 
 #arts2 img {
