@@ -20,7 +20,7 @@
 			</div>
 
 			<div id="eigenoks">
-				<div id="OK1" class="eigenok"><span>OK #1</span></div>
+				<div id="OK1" class="eigenok"><span><FONT size="5"> OK #1 </FONT> </span></div>
 				<div id="OK2" class="eigenok"><span>OK #2</span></div>
 			</div> 
 
@@ -47,7 +47,7 @@
 							<div id="ok12"> <span> OK #12 </span> <br> Operatie </div> 
 				</div>
 				
-				<div class="col-md-2" id="arts5" ><img src="images/user.png"/> <span> &nbsp Kappen <break> <break> <break> <break> Momenteel geen Operatie </span>
+				<div class="col-md-2" id="arts5" ><img src="images/user.png"/> <span> &nbsp Kappen <br> <br> <br> <br> Momenteel geen Operatie </span>
 				</div>
 		
 				
