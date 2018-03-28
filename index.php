@@ -16,44 +16,44 @@
 			</div>
 							  
 			<div id="hulp">
-				<span> <CENTER>! HULP <br></br>  <br></br>  <br></br>  <br></br>  <br></br></CENTER> </span>
+				<span> <CENTER>! HULP ></CENTER> </span>
 			</div>
 
 			<div id="eigenoks">
-				<div id="OK1" class="eigenok"><span><FONT size="6"> &nbsp OK #1 </FONT>  <br>Appendectomie</span></div>
-				<div id="OK2" class="eigenok"><span><FONT size="6"> &nbsp OK #6 </FONT>  <br>Operatie arm </span></div>
+				<div id="OK1" class="eigenok"><span><FONT size="6"> &nbsp OK #1  </FONT>  <br> &nbsp Appendectomie</span></div>
+				<div id="OK2" class="eigenok"><span><FONT size="6"> &nbsp OK #6 </FONT>  <br> &nbsp Operatie arm </span></div>
 			</div> 
 
 		</div>
 
 		<div id="overzicht" class="row">
 				 <div class="col-md-2" id="arts1" ><img src="images/user.png"/> <span>&nbsp Adams</span> 
-							 <div id="ok3"> <span> OK #3 <br> Operatie </span> </div> 
-							 <div id="ok5"> <span> OK #5 <br> Operatie </span> </div>
+							 <div id="ok3"> <span> &nbsp OK #3 <br> &nbsp Operatie </span> </div> 
+							 <div id="ok5"> <span> &nbsp OK #5 <br> &nbsp Operatie </span> </div>
 						
 				</div>
 			
 				<div class="col-md-2" id="arts2" ><img src="images/user.png"/> <span> &nbsp Gillisen </span> 
-							<div id="ok2"> <span> OK #2 </span> <br> Operatie</div>
-							<div id="ok9"> <span> OK #9 </span> <br> Operatie </div>
+							<div id="ok2"> <span> &nbsp OK #2 </span> <br> &nbsp Operatie</div>
+							<div id="ok9"> <span> &nbsp OK #9 </span> <br> &nbsp Operatie </div>
 				</div>
 		
 				<div class="col-md-2" id="arts3" ><img src="images/user.png"/> <span> &nbsp Haringa </span>
-							<div id="ok10"> <span> OK #10 </span> <br> Operatie  </div>
-							<div id="ok11"> <span> OK #11 </span> <br> Operatie </div>
+							<div id="ok10"> <span> &nbsp OK #10 </span> <br> &nbsp Operatie  </div>
+							<div id="ok11"> <span> &nbsp OK #11 </span> <br> &nbsp Operatie </div>
 				</div>
 				   
 				<div class="col-md-2" id="arts4" ><img src="images/user.png"/> <span> &nbsp Janssen </span>
-							<div id="ok12"> <span> OK #12 </span> <br> Operatie </div> 
+							<div id="ok12"> <span> &nbsp OK #12 </span> <br> &nbsp Operatie </div> 
 				</div>
 				
-				<div class="col-md-2" id="arts5" ><img src="images/user.png"/> <span> &nbsp Kappen <br> <br> <br> <br> Momenteel geen Operatie </span>
+				<div class="col-md-2" id="arts5" ><img src="images/user.png"/> <span> &nbsp Kappen <br> <br> <br> <br> Momenteel geen operaties </span>
 				</div>
 		
 				
 				<div class="col-md-2" id="arts6" ><img src="images/user.png"/> <span> &nbsp Zwet </span> 
-							<div id="ok1"> <span> OK #1 </span> <br> Operatie </div>
-							<div id="ok6"> <span> OK #6 </span> <br> Operatie </div> 
+							<div id="ok1"> <span> &nbsp OK #1 </span> <br> &nbsp Operatie </div>
+							<div id="ok6"> <span> &nbsp OK #6 </span> <br> &nbsp Operatie </div> 
 				</div>
 		</div>
 
