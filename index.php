@@ -27,12 +27,10 @@
 		</div>
 
 		<div id="overzicht" class="row">
-			 <div class="col-md-2" id="arts1" ><img src="images/user.png"/> &nbsp Adams </div>
-			 <div id="ok3arts1" class="col-md-2"> OK #3 </div> 
-				<div id="ok5arts1" class="col-md-2"> OK #5 </div> 
+			 <div class="col-md-2" id="arts1" ><img src="images/user.png"/> <span>&nbsp Adams</span> <div id="ok3"> <span> OK #3 </span> </div> </div>
+			
 				<div class="col-md-2" id="arts2" ><img src="images/user.png"/> &nbsp Gillisen </div>
-				<div id="ok3arts1" class="col-md-2"> OK #3 </div> 
-				<div id="ok5arts1" class="col-md-2"> OK #5 </div> 
+		
        			<div class="col-md-2" id="arts3" ><img src="images/user.png"/> &nbsp Haringa </div>
         		<div class="col-md-2" id="arts4" ><img src="images/user.png"/> &nbsp Janssen </div>
         		<div class="col-md-2" id="arts5" ><img src="images/user.png"/> &nbsp Kappen </div>
