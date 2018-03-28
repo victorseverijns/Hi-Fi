@@ -16,12 +16,12 @@
 			</div>
 							  
 			<div id="hulp">
-				<span> <CENTER>! HULP ></CENTER> </span>
+				<span> <CENTER>! HULP </CENTER> </span>
 			</div>
 
 			<div id="eigenoks">
-				<div id="OK1" class="eigenok"><span><FONT size="6"> &nbsp OK #1  </FONT>  <br> &nbsp Appendectomie</span></div>
-				<div id="OK2" class="eigenok"><span><FONT size="6"> &nbsp OK #6 </FONT>  <br> &nbsp Operatie arm </span></div>
+				<div id="OK1" class="eigenok"><span><FONT size="6"> &nbsp OK #1  </FONT>  <br> &nbsp &nbsp Appendectomie</span></div>
+				<div id="OK2" class="eigenok"><span><FONT size="6"> &nbsp OK #6 </FONT>  <br> &nbsp &nbsp Operatie arm </span></div>
 			</div> 
 
 		</div>
@@ -48,8 +48,7 @@
 				</div>
 				
 				<div class="col-md-2" id="arts5" ><img src="images/user.png"/> <span> &nbsp Kappen <br> <br> <br> <br> Momenteel geen operaties </span>
-				</div>
-		
+				</div> 
 				
 				<div class="col-md-2" id="arts6" ><img src="images/user.png"/> <span> &nbsp Zwet </span> 
 							<div id="ok1"> <span> &nbsp OK #1 </span> <br> &nbsp Operatie </div>
