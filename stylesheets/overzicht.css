@@ -45,7 +45,8 @@ html, body {
 	top: 20px;
 	left: 20px;
 	border: 1px solid black;
-	padding: 10px; 
+    padding: 10px;
+    float: left; 
 }
 
 #hulpinfo {
@@ -58,6 +59,7 @@ html, body {
 
     top: 50px; 
     left: 50px; 
+    float: left;
 
 }
 
@@ -69,6 +71,8 @@ html, body {
     height: 40px; 
     top:70px;
     left: 70px; 
+
+    float: left; 
 }
 
 #eigenoks {
