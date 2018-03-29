@@ -22,7 +22,8 @@
 
 							  
 			<div id="hulp">
-				<span> <CENTER>! HULP </CENTER> <br> <br>  <CENTER> <FONT size="4"> OK #3 </FONT> <br> <FONT size="2"> Operatie </br> </FONT> </CENTER></span>
+				<span> <CENTER>! HULP </CENTER> <br> <br>  <CENTER> <FONT size="4"> OK #3 </FONT> <br> <FONT size="2"> Operatie </br> </FONT> </CENTER> &#2705 &274C </span>
+				
 			</div>
 
 			<div id="eigenoks">
