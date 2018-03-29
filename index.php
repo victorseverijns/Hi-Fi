@@ -7,7 +7,7 @@
 		<link rel="stylesheet" type="text/css" href="stylesheets/fontawesome.css" />
 		<link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.min.css" />
 		<link rel="stylesheet" type="text/css" href="stylesheets/overzicht.css" />
-		<div id=titel> <span> <FONT size"=10"> <CENTER> UMC Complex A </CENTER>  </FONT> </span> </div> 
+		
 	</head>
 	<body>
 		<div id="header">
@@ -15,13 +15,14 @@
 				<img src="images/user.png" /> 
 				<span>T. Kappen</span>
 			</div>
-			<div id=titel> <span> <FONT size"=10"> <CENTER> UMC Complex A </CENTER>  </FONT> </span> 
+			<div id="titel"> 
+				<span> <FONT size"=10"> <CENTER> UMC Complex A </CENTER>  </FONT> </span> 
 			</div> 
 
 
 							  
 			<div id="hulp">
-				<span> <CENTER>! HULP </CENTER> <br> <br>  <CENTER> <FONT size="4"> OK #3 </FONT>  <FONT size="2"> Operatie </FONT> </CENTER></span>
+				<span> <CENTER>! HULP </CENTER> <br> <br>  <CENTER> <FONT size="4"> OK #3 </FONT> <br> <FONT size="2"> Operatie </br> </FONT> </CENTER></span>
 			</div>
 
 			<div id="eigenoks">
