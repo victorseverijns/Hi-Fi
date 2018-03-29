@@ -9,10 +9,6 @@ html, body {
 	border: 1px solid black;
 }
 
-#title {
-
-    border: 1px solid white; 
-}
 
 #personal {
 	position: absolute;
@@ -21,6 +17,12 @@ html, body {
 	border: 1px solid black;
 	padding: 10px;
 }
+
+#title {
+
+    border: 1px solid white; 
+}
+
 
 #personal img {
 	height: 25px;
