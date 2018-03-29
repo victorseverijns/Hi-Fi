@@ -15,7 +15,9 @@
 				<img src="images/user.png" /> 
 				<span>T. Kappen</span>
 			</div>
-		
+			<div id="titel"> 
+				<span> <FONT size"=8"> <CENTER> UMC Complex A </CENTER>  </FONT> </span> 
+			</div> 
 
 				  
 			<div id="hulp">
@@ -34,9 +36,6 @@
 			</div> 
 
 			</div>
-
-			<div id="hulpinput"> 
-				<span>  &#9989 &nbsp &#10060 <span> 
 			</div> 
 
 			<div id="eigenoks">
