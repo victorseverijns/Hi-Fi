@@ -39,14 +39,14 @@
 			</div> 
 
 			<div id="eigenoks">
-				<div id="OK1" class="eigenok"><span><FONT size="6"> &nbsp OK #1  </FONT>  <br> &nbsp &nbsp Appendectomie <br> <FONT color: red> &hearts  </FONT>  70  </span>
+				<div id="OK1" class="eigenok"><span><FONT size="6"> OK #1  </FONT>  <br>Appendectomie <br> <FONT color: red> "hartje"  </FONT>  70  </span>
 					<div id="bar">
 						<span>14.00</span>
 						<div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width:70%">
 							60%
 						</div> 
 				</div>
-				<div id="OK2" class="eigenok"><span><FONT size="6"> &nbsp OK #6 </FONT>  <br> &nbsp &nbsp Operatie arm <br> <FONT color: red> &hearts </FONT> 65 </span> </div>
+				<div id="OK2" class="eigenok"><span><FONT size="6"> OK #6 </FONT>  <br> Operatie arm <br> <FONT color: red> "hartje" </FONT> 65 </span> </div>
 			</div> 
 
 		</div>

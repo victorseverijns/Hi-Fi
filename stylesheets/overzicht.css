@@ -82,6 +82,12 @@ border: 1px solid black;
 width: 400px;
 height: 200px;
 
+padding: 20px; 
+
+position: fixed;
+top: 170px; 
+left: 650px; 
+
 
 }
 
@@ -95,9 +101,11 @@ border: 1px solid black;
 width: 400px;
 height: 200px;
 
+padding: 20px; 
+
 position: fixed;
-top: 200px;
-left: 700px;
+top: 170px;
+left: 850px;
 
 
 
