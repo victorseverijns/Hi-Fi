@@ -51,9 +51,12 @@ html, body {
 
 #hulpinfo {
 
+    position: absolute; 
     border: 1px solid black; 
     width: 150px;
     height: 120px; 
+
+    top:50px; 
 
 
 }
