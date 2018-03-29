@@ -76,7 +76,6 @@ html, body {
 
 #OK1 {
 
-    position: absolute;
 
 border: 1px solid black;
 
@@ -84,28 +83,25 @@ width: 400px;
 height: 200px;
 
 
-margin-left:800px;
-margin-top:0px;
- 
-
 }
 
-#bar {
-
-    
+#bar {  
 }
 
 #OK2 {
-
-    position: absolute; 
+    
 border: 1px solid black; 
 
 width: 400px;
 height: 200px;
 
+position: fixed;
+top: 200px;
+left: 700px;
 
-margin-left: 300px;
-margin-top:0px;  
+
+
+
 
 }
          
