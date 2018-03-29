@@ -7,7 +7,7 @@
 		<link rel="stylesheet" type="text/css" href="stylesheets/fontawesome.css" />
 		<link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.min.css" />
 		<link rel="stylesheet" type="text/css" href="stylesheets/overzicht.css" />
-		<div id=titel> <span> <FONT size"=8"> <CENTER>UMC Complex A </CENTER>  </FONT> </span> </div> 
+		<div id=titel> <span> <FONT size"=10"> <CENTER>UMC Complex A </CENTER>  </FONT> </span> </div> 
 	</head>
 	<body>
 		<div id="header">
