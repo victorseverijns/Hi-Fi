@@ -48,6 +48,18 @@ html, body {
 	padding: 10px; 
 }
 
+#hulpinfo {
+
+    border: 1px solid black; 
+}
+
+#hulpinput {
+
+    border: 1px solid black; 
+    margin-left: 10px;
+    margin-right: 10px; 
+}
+
 #eigenoks {
 }
 

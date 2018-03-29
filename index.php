@@ -22,9 +22,25 @@
 
 							  
 			<div id="hulp">
-				<span> <CENTER>! HULP </CENTER> <br> <br>  <CENTER> <FONT size="4"> OK #3 </FONT> <br> <FONT size="2"> Operatie </br> </FONT> </CENTER> &#9989 </span>
+				<span> <FONT size"=5"> <CENTER>! HULP </CENTER> </FONT> </span> 
 				
 			</div>
+
+			<div id="hulpinfo">
+				<span> <CENTER> <FONT size="4"> OK #3 </FONT> <br> <FONT size="2"> Operatie </FONT> </CENTER>  </span> 
+					</span>
+				<div id="hulpinput"> 
+				<span>  &#9989 &nbsp &#10060
+					 <span> 
+				</div>
+
+			</div> 
+
+			</div>
+
+			<div id="hulpinput"> 
+				<span>  &#9989 &nbsp &#10060 <span> 
+			</div> 
 
 			<div id="eigenoks">
 				<div id="OK1" class="eigenok"><span><FONT size="6"> &nbsp OK #1  </FONT>  <br> &nbsp &nbsp Appendectomie</span></div>
