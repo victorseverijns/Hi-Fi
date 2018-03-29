@@ -16,7 +16,7 @@
 				<span>T. Kappen</span>
 			</div>
 			<div id="titel"> 
-				<span> <FONT size"=8"> <CENTER> UMC Complex A </CENTER>  </FONT> </span> 
+				<span> <CENTER> <FONT size"=20">  UMC Complex A  </FONT> </CENTER></span> 
 			</div> 
 
 				  
