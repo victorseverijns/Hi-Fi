@@ -8,9 +8,10 @@ html, body {
 	height: 350px;
 	border: 1px solid black;
 }
-#titel {
 
-    border: 1px solid black; 
+#title {
+
+    border-bottom: white; 
 }
 
 #personal {
