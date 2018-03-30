@@ -54,9 +54,7 @@ html, body {
     border: 1px solid black; 
     width: 150px;
     height: 120px; 
-    margin-left: 75px; 
-    left: 33px; 
-
+    margin-left: 30px; 
     top:75px; 
 
 
@@ -68,8 +66,8 @@ html, body {
     
     width: 70px; 
     height: 40px; 
-    margin-left:20px; 
-    padding: 8px; 
+    margin-left:35px; 
+    padding: 9px; 
    
 
 }
