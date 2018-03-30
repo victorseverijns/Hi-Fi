@@ -21,7 +21,7 @@
 
 				  
 			<div id="hulp">
-				<span> <FONT size"=5"> <CENTER>! HULP </CENTER> </FONT> </span> 
+				<span> <FONT size"=5"> <CENTER> &#2757 HULP </CENTER> </FONT> </span> 
 				
 			</div>
 
@@ -39,7 +39,7 @@
 			</div> 
 
 			<div id="eigenoks">
-				<div id="OK1" class="eigenok"><span><FONT size="6"> OK #1  </FONT>  <br>Appendectomie <br> <FONT color: red> "hartje"  </FONT>  70  </span>
+				<div id="OK1" class="eigenok"><span><FONT size="6"> OK #1  </FONT>  <br>Appendectomie <br> <FONT color: red> &#9825  </FONT>  70  </span>
 					<div id="bar">
 						<span>14.00
 						<div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width:70%">
@@ -48,7 +48,7 @@
 						</div>
 						</span>
 				</div>
-				<div id="OK2" class="eigenok"><span><FONT size="6"> OK #6 </FONT>  <br> Operatie arm <br> <FONT color: red> "hartje" </FONT> 65 </span> 
+				<div id="OK2" class="eigenok"><span><FONT size="6"> OK #6 </FONT>  <br> Operatie arm <br> <FONT color: red> &#9825 </FONT> 65 </span> 
 					<div id2="bar">
 						<span>15.00
 						<div class="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width:70%">
