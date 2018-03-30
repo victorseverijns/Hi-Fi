@@ -21,7 +21,7 @@
 
 				  
 			<div id="hulp">
-				<span> <FONT size"=5"> <CENTER> &#2757 HULP </CENTER> </FONT> </span> 
+				<span> <FONT size"=5"> <CENTER> &#33 HULP </CENTER> </FONT> </span> 
 				
 			</div>
 
@@ -29,7 +29,7 @@
 				<span> <CENTER> <FONT size="4"> OK #3 </FONT> <br> <FONT size="2"> Operatie </FONT> </CENTER>  </span> 
 					</span>
 				<div id="hulpinput"> 
-				<span>  &#9989 &#10060 
+				<span>  <br> &#9989 &#10060 
 					 <span> 
 				</div>
 
