@@ -21,7 +21,7 @@
 
 				  
 			<div id="hulp">
-				<span> <FONT size"=5"> <CENTER> <FONT color: red </FONT> &#33 HULP </CENTER> </FONT> </span> 
+				<span> <FONT size"=5"> <CENTER> <FONT color="red" </FONT> &#33 HULP </CENTER> </FONT> </span> 
 				
 			</div>
 
