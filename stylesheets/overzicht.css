@@ -56,6 +56,7 @@ html, body {
     height: 120px; 
     margin-left: 80px; 
     top:75px; 
+    padding-top:10px; 
 
 
 }
@@ -63,7 +64,7 @@ html, body {
 #hulpinput {
     border: 1px solid white; 
     
-    width: 70px; 
+    width: 150px; 
     height: 40px; 
     margin-left:37px; 
     padding: 8px; 
