@@ -29,7 +29,7 @@
 				<span> <CENTER> <FONT size="4"> OK #3 </FONT> <br> <FONT size="2"> Operatie </FONT> </CENTER>  </span> 
 					</span>
 				<div id="hulpinput"> 
-				<span> <CENTER> &#9989 &nbsp &#10060 </CENTER> 
+				<span>  &#9989 &nbsp &#10060 
 					 <span> 
 				</div>
 
